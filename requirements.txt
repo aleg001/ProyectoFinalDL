@@ -6,3 +6,4 @@ plotly
 nbformat
 matplotlib
 joblib
+mir_eval
