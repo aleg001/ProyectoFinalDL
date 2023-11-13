@@ -5,3 +5,4 @@ soundfile>=0.9.0
 plotly
 nbformat
 matplotlib
+joblib
